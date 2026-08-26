@@ -1,0 +1,5 @@
+1|Machine Learning for Cancer Detection|Machine Learning,Cancer,AI
+2|Deep Learning for Medical Diagnosis|Deep Learning,Medical,AI
+3|Artificial Intelligence in Healthcare|AI,Healthcare,Machine Learning
+4|Natural Language Processing for Research|NLP,AI,Research
+5|Data Mining Techniques in Healthcare|Data Mining,Healthcare
