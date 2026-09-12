@@ -1,0 +1,6 @@
+Edge Computing and IoT Microservice Orchestration
+Mateo Rossi, Clara Dubois, Samuel Thorne
+2023
+Computer Networks
+
+The proliferation of Internet of Things sensors necessitates processing data closer to network edges to satisfy stringent latency and bandwidth constraints. Edge computing shifts compute and storage capabilities from centralized hyperscale data centers to decentralized edge nodes located near data sources. In this paper, we present a lightweight container orchestration framework optimized for resource-constrained edge gateways. We propose an adaptive task offloading algorithm based on dynamic network conditions, edge server queue lengths, and device battery levels. Empirical evaluations demonstrate a 42% reduction in end-to-end response time and a 35% decrease in backhaul bandwidth utilization compared to traditional cloud offloading architectures.

@@ -1,0 +1,6 @@
+Vision Transformers for End-to-End Object Detection
+Nicolas Carion, Francisco Massa, Gabriel Synnaeve
+2023
+Artificial Intelligence
+
+We present a new method that views object detection as a direct set prediction problem. Our approach streamlines the detection pipeline, effectively removing the need for many hand-designed components like non-maximum suppression or anchor generation that explicitly encode prior knowledge. The main ingredients of the new framework, called DEtection TRansformer or DETR, are a set-based global loss that forces unique predictions via bipartite matching, and a transformer encoder-decoder architecture. Given a fixed small set of learned object queries, DETR reasons about the relations of the objects and the global image context to directly output the final set of predictions in parallel. On the challenging COCO dataset, our model demonstrates competitive accuracy and superior performance on large objects compared to Faster R-CNN baselines.

@@ -1,0 +1,6 @@
+Scalable Zero-Knowledge Proofs for Decentralized Identity
+Eli Ben-Sasson, Alessandro Chiesa, Eran Tromer
+2024
+Cybersecurity
+
+Zero-knowledge proofs enable a prover to convince a verifier that a statement is true without revealing any information beyond the statement validity. In decentralized identity management, users must authenticate assertions such as age, citizenship, or solvency without disclosing personally identifiable information. We present a scalable non-interactive zero-knowledge argument of knowledge system based on polynomial commitments over elliptic curves with transparent setup. Our implementation reduces proof generation time by 60% and verifies multi-attribute identity credentials in under 12 milliseconds on mobile devices.

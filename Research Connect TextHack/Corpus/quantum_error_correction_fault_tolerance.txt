@@ -1,0 +1,6 @@
+Surface Codes and Fault-Tolerant Quantum Error Correction
+Austin Fowler, John Martinis, Barbara Terhal
+2023
+Quantum Computing
+
+Physical qubits in quantum computers suffer from decoherence, environmental noise, and gate infidelities. Building fault-tolerant quantum computers capable of running deep quantum algorithms requires quantum error correction. In this paper, we investigate planar surface code architectures with nearest-neighbor 2D qubit connectivity. We introduce an adaptive minimum-weight perfect matching decoder that decodes syndrome measurements with sub-threshold physical error rates of 0.7%. We simulate logical qubit memory lifetime under realistic circuit noise models and evaluate magic state distillation protocols needed for universal fault-tolerant quantum computation.

@@ -1,0 +1,6 @@
+Graph Neural Networks for Node Classification
+Thomas Kipf, Max Welling, Sofia Petrenko
+2023
+Artificial Intelligence
+
+Graph-structured data arises naturally across computational biology, social network analysis, and knowledge graphs. We present a scalable approach for semi-supervised learning on graph-structured data based on an efficient variant of convolutional neural networks which operate directly on graphs. Our choice of convolutional architecture is motivated via a localized first-order approximation of spectral graph convolutions. Our model scales linearly in the number of graph edges and learns representations that encode both local graph structure and features of available nodes. In extensive experiments on citation networks and knowledge base datasets, we demonstrate that our graph convolutional networks outperform related semi-supervised graph classification methods in both accuracy and training efficiency.

@@ -1,0 +1,6 @@
+Generative Adversarial Networks for High-Resolution Image Synthesis
+Ian Goodfellow, Alexei Efros, Christian Szegedy
+2022
+Artificial Intelligence
+
+Generative adversarial networks estimate generative models via an adversarial process in which two models are simultaneously trained: a generative model that captures the data distribution, and a discriminative model that estimates the probability that a sample came from the training data rather than the generator. In this paper, we propose a progressive growing architecture where training begins with low-resolution images and progressively adds new layers that model increasingly fine details. This stabilizes training and enables the synthesis of photorealistic 1024x1024 pixel images with unprecedented visual fidelity. We also introduce a multi-scale gradient penalty to mitigate mode collapse and improve diversity across generated image classes.

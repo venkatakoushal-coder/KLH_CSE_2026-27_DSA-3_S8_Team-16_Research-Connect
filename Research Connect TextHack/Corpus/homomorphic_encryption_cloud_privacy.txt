@@ -1,0 +1,6 @@
+Fully Homomorphic Encryption for Secure Cloud Computations
+Craig Gentry, Shai Halevi, Vinod Vaikuntanathan
+2023
+Cybersecurity
+
+Outsourcing data analytics to untrusted cloud providers poses severe privacy and confidentiality risks for regulated industries such as healthcare and finance. Fully Homomorphic Encryption enables arbitrary computations directly on encrypted ciphertexts without requiring decryption keys. In this paper, we present an optimized bootstrapping technique for ring learning-with-errors based homomorphic cryptosystems. By redesigning polynomial multiplication algorithms and leveraging parallelized GPU kernels, we achieve a 10x acceleration in homomorphic matrix evaluation compared to prior lattice-based baselines. We validate our framework on encrypted statistical regression and privacy-preserving biomedical record linkage tasks.

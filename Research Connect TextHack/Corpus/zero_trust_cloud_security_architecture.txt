@@ -1,0 +1,6 @@
+Zero-Trust Architecture for Cloud Security
+Rosemary Barker, David Ward, Michael Gilmore
+2023
+Cybersecurity
+
+Enterprise security perimeters are dissolving with remote work and multi-cloud infrastructure. Traditional perimeter security assumes everything inside the internal network is trusted. In contrast, Zero-Trust Architecture operates on the core principle of never trust, always verify. Every request for data, computing resources, or services must be explicitly authenticated, authorized, and encrypted before access is granted. This paper explores micro-segmentation, continuous identity verification, and least-privilege access control within distributed cloud environments. We evaluate practical implementation hurdles, including latency overhead, credential lifecycle management, and behavioral anomaly detection using machine learning models to detect compromised identities in real time.

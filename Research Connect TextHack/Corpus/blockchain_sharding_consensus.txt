@@ -1,0 +1,6 @@
+Blockchain Consensus Protocols and Scalability
+Alexander Wright, Hina Patel, Kenji Takahashi
+2024
+Cybersecurity
+
+Decentralized ledger technology faces severe scalability trilemma challenges balancing decentralization, security, and transaction throughput. Proof-of-Work consensus guarantees high security at the cost of high energy consumption and low transactions per second. In this survey and experimental analysis, we compare Proof-of-Stake, Directed Acyclic Graph consensus, and Byzantine Fault Tolerant state machine replication protocols. We measure finality latency, network partition resilience, and vulnerability to sybil and 51 percent attacks. Furthermore, we investigate Layer-2 rollups and sharding mechanisms to achieve horizontal scalability without compromising cryptographic consensus guarantees.
