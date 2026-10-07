@@ -1,0 +1,6 @@
+Deep Reinforcement Learning for Autonomous Drone Navigation
+Sergey Levine, Pieter Abbeel, Laura Chen
+2024
+Robotics & AI
+
+Autonomous unmanned aerial vehicles navigating complex, GPS-denied environments require real-time perception and motion planning. Traditional path planning algorithms like A-star and RRT struggle with dynamic obstacles and high-dimensional sensor streams. We propose a vision-based deep reinforcement learning approach using Soft Actor-Critic augmented with spatial memory networks. By training agents across photo-realistic simulation environments with randomized physics and lighting, the learned policy transfers directly to physical quadrotors without fine-tuning. Flight experiments demonstrate collision-free navigation through cluttered indoor forests and high-speed obstacle avoidance at velocities exceeding 8 meters per second.

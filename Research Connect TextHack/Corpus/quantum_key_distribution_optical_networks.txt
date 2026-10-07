@@ -1,0 +1,6 @@
+Quantum Key Distribution Protocols in Optical Networks
+Elena Rostova, Christopher Bennett, Lucas Vance
+2022
+Quantum Computing
+
+Securing communication networks against future quantum threats requires quantum-resistant cryptographic solutions. Quantum Key Distribution leverages quantum mechanical properties such as the no-cloning theorem and Heisenberg uncertainty principle to facilitate provably secure communication. In this paper, we study discrete-variable and continuous-variable protocols integrated into existing wavelength-division multiplexing optical networks. We analyze the impact of channel attenuation, dark count rates, and phase drift on the secret key generation rate. Simulation results show that optimized entanglement-based quantum repeater architectures enable long-distance quantum secure communication up to 400 kilometers with minimal decoy-state overhead.
