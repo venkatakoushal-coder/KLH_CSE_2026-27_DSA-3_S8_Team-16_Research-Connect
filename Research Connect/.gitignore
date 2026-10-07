@@ -1,12 +1,5 @@
-# Frontend dependencies and builds 
 node_modules/ 
-dist/ 
-.env 
-# Java Backend builds 
-target/ 
-.gradle/ 
-build/ 
-# IDE files 
+backend/target/ 
+Research Connect/frontend/dist/ 
 .idea/ 
-.vscode/ 
-*.iml
+.vscode/
