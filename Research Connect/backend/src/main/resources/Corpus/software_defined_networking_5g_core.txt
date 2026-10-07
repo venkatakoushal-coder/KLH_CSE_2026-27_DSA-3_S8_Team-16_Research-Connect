@@ -1,0 +1,6 @@
+Software-Defined Networking in 5G Core Networks
+Marcus Lindqvist, Aarti Sharma, Robert Chen
+2021
+Computer Networks
+
+The migration towards 5G telecommunications requires agile, scalable, and software-driven network control mechanisms. Software-Defined Networking decouples the network control plane from the data forwarding plane, enabling programmatic network orchestration and network slicing. In this paper, we evaluate OpenFlow-based controllers and P4 programmable data planes within the 5G Service-Based Architecture. Our experimental testbed demonstrates ultra-low latency slice isolation with dynamic bandwidth allocation under heavy mobile traffic loads. We also analyze fault tolerance, fast failover algorithms, and controller scalability during rapid handovers between millimeter-wave small cells.

@@ -1,0 +1,6 @@
+Privacy-Preserving Federated Learning on Edge Devices
+Siddharth Nair, Elena Gomez, David Miller
+2024
+Artificial Intelligence
+
+Edge devices generate massive volumes of sensitive user data that cannot be centralized due to privacy regulations and bandwidth limitations. Federated learning enables decentralized training of machine learning models directly on edge devices while keeping raw data local. However, transmitting gradient updates exposes privacy vulnerabilities to model inversion and gradient leakage attacks. In this work, we propose a hybrid privacy-preserving framework combining differential privacy and secure multi-party computation. We demonstrate that our adaptive clipping and noise addition algorithm preserves neural network model convergence while providing rigorous mathematical privacy guarantees against curious aggregation servers.
